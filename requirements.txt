@@ -1,21 +1,5 @@
-google-generativeai
-langchain_google_genai
+google.generativeai
 streamlit
 langchain
-langchain-community
-langchain-core
-langchain-google-genai
-langchain-pinecone
-langchain-text-splitters
 python-dotenv
-google.generativeai
-sentence-transformers
-pinecone
-pillow
-pypdf
-flask
-openpyxl
-rapidocr-onnxruntime
-
-
 
