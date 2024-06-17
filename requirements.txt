@@ -1,5 +1,5 @@
 google.generativeai
 streamlit
-langchain==0.2.1
+langchain-cli
 python-dotenv
 
